@@ -1,3 +1,3 @@
-# Finetuning-ViT-DL-Hw2
+# Finetuning-ViT
 
 Trained a Vision Transformer model and implemented knowledege distillation.
